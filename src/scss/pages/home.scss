@@ -1,0 +1,101 @@
+// Styles related to the home page
+
+
+.jumbotron {
+
+	width:100%;
+	background-image:url(actividad-bootstrap-photogallery-master/assets/images/bg.jpg);
+	text-align:	center;
+	
+}
+
+.navbar-navbar-default {
+
+text-align: center;	
+margin-right: 10px;
+float: right;
+position: static;
+background-color: transparent;	
+}
+
+
+
+
+.boton {
+	border-radius: 3px;
+    background-color: white; /* Green */
+    color: gray;
+    display: inline-block;
+    justify-content: center; 
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+}
+
+.boton2{
+    border-radius: 3px;
+    background-color: white; /* Green */
+    color: gray;
+    display: block;
+    justify-content: center; 
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+}
+
+.texto-jumbotron {
+
+text-align:center;	
+color: white;
+}
+
+h4 {
+
+	text-align: center;
+}
+
+p {
+
+text-align: center;
+
+}
+
+#gris {
+background-color: #ebebeb;
+padding: 30px;
+
+}
+
+
+
+#personas img{
+display: block;	
+height: 200px;
+text-align: center;
+margin: 0 auto;
+
+}
+
+h5 {
+text-align: center;
+
+}
+
+h6 {
+
+text-align: center;
+
+}
+
+.pie {
+margin: 0 auto;
+text-align: center;
+display: block;
+
+}
